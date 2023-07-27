@@ -1,2 +1,2 @@
 # siteHtml5
-Site sobre algumas informações sobre AloT O que a Inteligência Artificial 
+Site sobre algumas informações sobre AloT O que a Inteligência Artificial das coisas.
