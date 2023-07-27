@@ -1,2 +1,4 @@
 # siteHtml5
-Site sobre algumas informações sobre AloT O que a Inteligência Artificial das coisas.
+Site sobre algumas informações sobre AloT.
+- Inteligência Artificial das coisas.
+- Benefícios da Hiperautomação.
